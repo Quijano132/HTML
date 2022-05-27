@@ -1,0 +1,56 @@
+nav
+{
+    background-color: aliceblue;
+    width: auto;
+    height: 100px;
+    text-align: center;
+    border-radius: 10px;
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
+
+.FECHA
+{
+    background-color: aliceblue;
+    width: auto;
+    height: 100px;
+    text-align: center;
+    border-radius: 10px;
+  
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
+
+.direccion
+{
+    background-color: aliceblue;
+    width: auto;
+    height: 100px;
+    text-align: center;
+    border-radius: 10px;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
+.image
+{
+    background-color: aliceblue;
+    width: auto;
+    height: auto;  
+    text-align: center; 
+    border-radius: 10px;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+
+}
+.data
+{
+    background-color: aliceblue;
+    width: auto;
+    height: 100px;
+    text-align: center;
+    border-radius: 10px;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+}
